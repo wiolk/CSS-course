@@ -5,24 +5,10 @@
 *
 *********************************/
 
-
-/* TARGETTING ELEMENTS / TAGS, ID'S & CLASSES */
-
-h2{
-    font-size: 24px;
-}
-/* id style */
-#content-header{
-    font-size: 18px;
-    color: red;
-}
-/* tags style */
 span{
-    display: block;
     color: blue;
 }
 
-/* class style */
-.deck{
+span{
     color: red;
 }
