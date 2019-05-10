@@ -5,6 +5,6 @@
 *
 *********************************/
 
-#sub-content p{
+#main-content > p{
     color: red;
 }
