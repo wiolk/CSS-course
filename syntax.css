@@ -5,19 +5,18 @@
 *
 *********************************/
 
-body{
+#main-content p{
     color: red;
 }
 
-div{
-    color: blue;
+p{
+    color:black;
 }
 
-p{
+.test{
     color: green;
 }
 
-a{
-    color: rgb(157, 255, 0);
-    text-decoration: underline;
+strong{
+    color: green;
 }
