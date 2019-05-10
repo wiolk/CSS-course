@@ -5,10 +5,19 @@
 *
 *********************************/
 
-span{
+body{
+    color: red;
+}
+
+div{
     color: blue;
 }
 
-span{
-    color: red;
+p{
+    color: green;
+}
+
+a{
+    color: rgb(157, 255, 0);
+    text-decoration: underline;
 }
