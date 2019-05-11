@@ -5,7 +5,16 @@
 *
 *********************************/
 
-#all-articles h2 + p{
-    color:green;
+span[class~="deck"]{
+    color: purple;
 }
+
+div[id]{
+    background: grey;
+}
+
+a[href^=http]{
+    color:pink;
+}
+
 
