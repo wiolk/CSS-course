@@ -5,6 +5,10 @@
 *
 *********************************/
 
-article:nth-of-type(2n){
-    background: grey;
+article.featured-content{
+    background: red;
+}
+
+div.featured-content{
+    background:blue;
 }
