@@ -5,13 +5,14 @@
 *
 *********************************/
 
-
-
-h1{
-    font-weight: normal;
+#header p{
+    text-transform: capitalize;
 }
 
-p{
-    font-weight: 500;
-    font-family: Helvetica;
+body{
+    text-transform: uppercase;
+}
+
+body > p{
+     text-transform: none;
 }
