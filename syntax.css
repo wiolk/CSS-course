@@ -5,9 +5,9 @@
 *
 *********************************/
 
-p{
-    font-size: 12px;
-    line-height: 2em;
-    margin-bottom: 32px;
-   
+.box{
+    margin: 30px;
+    padding: 30px;
+    border: 1px solid #000;
+    width: 200px;
 }
