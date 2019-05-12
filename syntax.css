@@ -7,6 +7,11 @@
 
 
 
-a{
-    text-decoration: none;
+h1{
+    font-weight: normal;
+}
+
+p{
+    font-weight: 500;
+    font-family: Helvetica;
 }
