@@ -5,14 +5,7 @@
 *
 *********************************/
 
-a{
-    color: darkslategray;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color:indianred;
-    text-decoration: underline;
-    background-color: aquamarine;
+p{
+    font-size: 12px;
+    line-height: 1.5em;
 }
