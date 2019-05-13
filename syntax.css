@@ -13,6 +13,7 @@
     background: #aadddd;
     background: linear-gradient(top, #aadddd 0%, #77aaaa 100%);
     background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+    box-shadow: 2px 2px 4px 2px rgba(40,40,40,0.6);
 }
 
 .button:hover{
@@ -21,3 +22,5 @@
     background: -webkit-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
 
 }
+
+/* http://www.cssmatic.com/box-shadow - generator of shadows*/
