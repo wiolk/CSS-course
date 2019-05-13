@@ -1,23 +1,5 @@
-/*******************************
-*
-* Author: Wiola
-* Date: 13.05.19
-*
-*********************************/
-
 #banner{
-    background-color: #696860;
     width: 100%;
     height: 300px;
-    background-image: url(https://cdn3.iconfinder.com/data/icons/farm-animals/128/cat-512.png), url(https://png.pngtree.com/thumb_back/fh260/back_pic/02/65/20/03578746d3282b3.jpg); 
-    background-repeat: no-repeat;
-    background-size: 300px, 100%;
-    background-position: center, top left;
-    
-    
-    
-
+    background-color: rgb(250, 150, 60);
 }
-
-/*
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fs4.dziennik.pl%2Fpliki%2F9487000%2F9487916-flaga-norwegii-900-600.jpg&imgrefurl=https%3A%2F%2Fsport.dziennik.pl%2Fnews%2Fartykuly%2F585306%2Cksiazki-o-sporcie-najwiekszymi-bestsellerami-w-norwegii.html&docid=JO-eRFt045wDQM&tbnid=pPR0bmpUkOYrKM%3A&vet=10ahUKEwijoIiqqpjiAhXFwqYKHZNUAVUQMwhJKAowCg..i&w=900&h=600&bih=762&biw=1600&q=flaga%20norwegii&ved=0ahUKEwijoIiqqpjiAhXFwqYKHZNUAVUQMwhJKAowCg&iact=mrc&uact=8 */
